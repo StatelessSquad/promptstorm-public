@@ -1,6 +1,6 @@
 # Promptstorm — product page
 
-A vibecoder sprints down a neon circuit board through the galaxy, collecting AI tokens while the Hype Blimp throws budget cuts, SaaS, bots and agents at them. Swipe to switch lanes, jump and slide; fill the Vibe bar and fire the laptop's Refactor beam. No ads, no accounts, plays offline.
+A vibecoder sprints down a neon circuit board through the galaxy, collecting AI tokens while the Hype Blimp throws budget cuts, SaaS, bots and agents at them. Run from the Garage through the Hackathon, Demo Day and Hypergrowth to The Cloud. Swipe to switch lanes, jump and slide; fill the Vibe bar and fire the laptop's Refactor beam. No ads, no accounts, plays offline.
 
 The public page of **Promptstorm** by [StateLess Squad](https://github.com/StatelessSquad).
 Live at https://statelesssquad.github.io/promptstorm-public/
