@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://statelesssquad.github.io/promptstorm-public/sitemap.xml
